@@ -2,7 +2,7 @@
 
 - 🏢 Backend Engineer @ freee K.K. — invoice receipt product (BPO × SaaS)
 - 🛠 Go / Clean Architecture / DDD / Wire, TypeScript / Next.js
-- 📚 Currently reading: *Domain-Driven Design* (Evans) — Part III
+- 📚 Currently reading: *Domain-Driven Design* (Evans)
 - ✍️ Writing about DDD, ADR, and architectural decision-making
 - 🌱 Interests: structural design, LLM × DDD, accounting domain
 
