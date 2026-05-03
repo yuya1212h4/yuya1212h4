@@ -18,8 +18,8 @@
 ### 📊 Stats
 
 <p align="left">
-  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=yuya1212h4&show_icons=true&theme=onedark" />
-  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuya1212h4&layout=compact&theme=onedark" />
+  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=yuya1212h4&show_icons=true&theme=onedark&cache_seconds=86400" />
+  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuya1212h4&layout=compact&theme=onedark&cache_seconds=86400" />
   <img alt="GitHub Streak" height="150" src="https://streak-stats.demolab.com?user=yuya1212h4&theme=dark&hide_border=true&background=282C34&stroke=ABB2BF&ring=61AFEF&fire=E06C75&currStreakLabel=61AFEF" />
 </p>
 
